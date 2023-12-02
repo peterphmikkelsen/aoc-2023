@@ -1,14 +1,12 @@
-# aoc-2023
+# Advent of Code 2023
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [peterphmikkelsen][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, peterphmikkelsen is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
-
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
+## Solutions
+- [Day 1: Trebuchet?!](src/Day01/Day01.md)
+- [Day 2: Cube Conundrum](src/Day02/Day02.md)
 
 
 [^aoc]:
@@ -17,9 +15,6 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
     You can solve the puzzle and provide an answer using the language of your choice.
 
 [aoc]: https://adventofcode.com
-[docs]: https://kotlinlang.org/docs/home.html
 [github]: https://github.com/peterphmikkelsen
-[issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
 [kotlin]: https://kotlinlang.org
-[slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template

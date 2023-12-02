@@ -25,7 +25,7 @@ fun String.formatGame(): List<Pair<String, Int>> {
 ```
 
 ## Part 2
-Part 2 is also fairly straight foward. We have to find the maximum value for each color for all draws in the game
+Part 2 is also fairly straight foward. We have to find the maximum value for each color for all draws in each game
 ```kotlin
 fun part2(input: List<String>): Int {
     return input.sumOf { line ->
