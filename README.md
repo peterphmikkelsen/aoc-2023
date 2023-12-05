@@ -7,6 +7,8 @@ In this repository, peterphmikkelsen is about to provide solutions for the puzzl
 ## Solutions
 - [Day 1: Trebuchet?!](src/Day01/Day01.md)
 - [Day 2: Cube Conundrum](src/Day02/Day02.md)
+- [Day 3: Gear Ratios](src/Day03/Day03.md)
+- [Day 4: Scratchcards](src/Day04/Day04.md)
 
 
 [^aoc]:
