@@ -9,6 +9,7 @@ In this repository, peterphmikkelsen is about to provide solutions for the puzzl
 - [Day 2: Cube Conundrum](src/Day02/Day02.md)
 - [Day 3: Gear Ratios](src/Day03/Day03.md)
 - [Day 4: Scratchcards](src/Day04/Day04.md)
+- [Day 6: Wait For It](src/Day06/Day06.md)
 
 
 [^aoc]:
