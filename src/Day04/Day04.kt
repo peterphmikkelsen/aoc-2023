@@ -67,10 +67,6 @@ fun String.getCard(idx: Int = 0): Card {
     return Card(idx + 1, a, b)
 }
 
-fun String.removePrefix(regex: Regex): String {
-    return this.replace(regex, "")
-}
-
 data class Card(val number: Int = 0, val winning: List<Int>, val given: List<Int>) {
     override fun toString(): String {
         return "Card $number"
